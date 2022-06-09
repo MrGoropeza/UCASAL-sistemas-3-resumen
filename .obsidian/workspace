@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "a591a2be15357998",
+    "type": "split",
+    "children": [
+      {
+        "id": "58305c26025803f9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Propuesta.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "59d2b47c29a87b81",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a95f535dee96c67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6ceee2aa5d6b6b9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b5b7faf808d3ba32",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "761db34b76a42abb",
+    "type": "split",
+    "children": [
+      {
+        "id": "660fb4a6010a65d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2dc104436ff1a3ee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Propuesta.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "58305c26025803f9",
+  "lastOpenFiles": [
+    "Propuesta.md",
+    "Pliego Técnico.md",
+    "resumen.md",
+    "README.md"
+  ]
+}
